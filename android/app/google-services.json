@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587690026661",
+    "project_id": "sales-ai-demo",
+    "storage_bucket": "sales-ai-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587690026661:android:8538d6dc876accbba30f4c",
+        "android_client_info": {
+          "package_name": "com.example.sales_ai_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLu6KrxNzg7PR4lUeU5CzJZLgJ0HP4AhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587690026661:android:b75cc98fb24e0bf6a30f4c",
+        "android_client_info": {
+          "package_name": "com.example.sales_ai_examples"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLu6KrxNzg7PR4lUeU5CzJZLgJ0HP4AhI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
